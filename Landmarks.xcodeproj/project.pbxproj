@@ -54,6 +54,7 @@
 		C97367562984DF9B00669F3D = {
 			isa = PBXGroup;
 			children = (
+				C973678A2985AE0F00669F3D /* README.md */,
 				C97367612984DF9B00669F3D /* Landmarks */,
 				C97367602984DF9B00669F3D /* Products */,
 			);
@@ -76,7 +77,6 @@
 				C973677E29858AAA00669F3D /* Resources */,
 				C97367662984DF9C00669F3D /* Assets.xcassets */,
 				C97367682984DF9C00669F3D /* Preview Content */,
-				C973678A2985AE0F00669F3D /* README.md */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
