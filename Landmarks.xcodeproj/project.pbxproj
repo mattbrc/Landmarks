@@ -25,6 +25,7 @@
 		C97367922985B53C00669F3D /* BadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97367912985B53C00669F3D /* BadgeSymbol.swift */; };
 		C97367942985B5E700669F3D /* RotatedBadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97367932985B5E700669F3D /* RotatedBadgeSymbol.swift */; };
 		C97367962985B66100669F3D /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97367952985B66100669F3D /* Badge.swift */; };
+		C97367992985BAC800669F3D /* hikeData.json in Resources */ = {isa = PBXBuildFile; fileRef = C97367982985BAC800669F3D /* hikeData.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		C97367912985B53C00669F3D /* BadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeSymbol.swift; sourceTree = "<group>"; };
 		C97367932985B5E700669F3D /* RotatedBadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotatedBadgeSymbol.swift; sourceTree = "<group>"; };
 		C97367952985B66100669F3D /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
+		C97367982985BAC800669F3D /* hikeData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hikeData.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 		C973677E29858AAA00669F3D /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				C97367982985BAC800669F3D /* hikeData.json */,
 				C973677429857FBB00669F3D /* landmarkData.json */,
 			);
 			path = Resources;
@@ -217,6 +220,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C97367992985BAC800669F3D /* hikeData.json in Resources */,
 				C973676A2984DF9C00669F3D /* Preview Assets.xcassets in Resources */,
 				C97367672984DF9C00669F3D /* Assets.xcassets in Resources */,
 				C973677529857FBB00669F3D /* landmarkData.json in Resources */,
