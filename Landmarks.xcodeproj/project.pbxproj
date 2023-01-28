@@ -37,6 +37,7 @@
 		C973678129858C4F00669F3D /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		C97367832985905C00669F3D /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		C97367852985A93F00669F3D /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
+		C973678A2985AE0F00669F3D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +76,7 @@
 				C973677E29858AAA00669F3D /* Resources */,
 				C97367662984DF9C00669F3D /* Assets.xcassets */,
 				C97367682984DF9C00669F3D /* Preview Content */,
+				C973678A2985AE0F00669F3D /* README.md */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
