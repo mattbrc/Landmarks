@@ -42,6 +42,7 @@
 		C97367BE2985D0E100669F3D /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97367BD2985D0E100669F3D /* PageViewController.swift */; };
 		C97367C02985D2A900669F3D /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97367BF2985D2A900669F3D /* FeatureCard.swift */; };
 		C97367C22985D39700669F3D /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97367C12985D39700669F3D /* PageView.swift */; };
+		C97367C4298624F200669F3D /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97367C3298624F200669F3D /* PageControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -82,6 +83,7 @@
 		C97367BD2985D0E100669F3D /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		C97367BF2985D2A900669F3D /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
 		C97367C12985D39700669F3D /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		C97367C3298624F200669F3D /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -238,6 +240,7 @@
 			children = (
 				C97367BD2985D0E100669F3D /* PageViewController.swift */,
 				C97367C12985D39700669F3D /* PageView.swift */,
+				C97367C3298624F200669F3D /* PageControl.swift */,
 			);
 			path = PageView;
 			sourceTree = "<group>";
@@ -324,6 +327,7 @@
 				C973677329857CB000669F3D /* MapView.swift in Sources */,
 				C97367A32985BC0500669F3D /* GraphCapsule.swift in Sources */,
 				C97367632984DF9B00669F3D /* LandmarksApp.swift in Sources */,
+				C97367C4298624F200669F3D /* PageControl.swift in Sources */,
 				C97367862985A93F00669F3D /* FavoriteButton.swift in Sources */,
 				C97367AE2985C2DA00669F3D /* CategoryItem.swift in Sources */,
 				C97367A52985BC0500669F3D /* HikeDetail.swift in Sources */,
